@@ -8,4 +8,4 @@ Theory and implementation in code (Python and MATLAB)
 
 **3. Determinants**
 
-**4. Vector Space**
+**4. Vector Spaces**
