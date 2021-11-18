@@ -1,2 +1,3 @@
-# linear-algebra
-Linear Algebra
+# Linear Algebra
+Theory and implementation in code
+
